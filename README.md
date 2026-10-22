@@ -240,3 +240,9 @@ This project demonstrates how SQL and Power BI can be used together to analyse e
 ### 3. Delivery and Business Insights
 ![Delivery and Business Insights](03_Delivery_Business_Insights.png)
 
+
+## Power BI Report
+
+Download or open the interactive Power BI report using the link below:
+
+[Open E-Commerce Sales Analysis Power BI Report](https://drive.google.com/file/d/1P-mQaJmdDNJK6K7rwKgV7o4dtqoZK4Nu/view?usp=sharing)
