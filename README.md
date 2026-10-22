@@ -246,3 +246,6 @@ This project demonstrates how SQL and Power BI can be used together to analyse e
 Download or open the interactive Power BI report using the link below:
 
 [Open E-Commerce Sales Analysis Power BI Report](https://drive.google.com/file/d/1P-mQaJmdDNJK6K7rwKgV7o4dtqoZK4Nu/view?usp=sharing)
+## Project Repository
+
+This repository contains the SQL queries, project report, and Power BI dashboard screenshots for the E-Commerce Sales Analysis project.
