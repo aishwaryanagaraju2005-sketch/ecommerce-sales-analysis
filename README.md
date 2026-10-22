@@ -228,3 +228,15 @@ These insights can support decisions about product performance, customer experie
 
 This project demonstrates how SQL and Power BI can be used together to analyse e-commerce data and communicate business insights through interactive dashboards.
 
+
+## Power BI Dashboard Screenshots
+
+### 1. Sales Overview
+![Sales Overview](01_Sales_Overview.png)
+
+### 2. Product and Customer Analysis
+![Product and Customer Analysis](02_Product_Customer_Analysis.png)
+
+### 3. Delivery and Business Insights
+![Delivery and Business Insights](03_Delivery_Business_Insights.png)
+
