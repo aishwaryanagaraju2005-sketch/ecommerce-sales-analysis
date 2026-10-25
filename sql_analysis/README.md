@@ -24,3 +24,12 @@ This folder contains advanced SQL queries developed for the E-Commerce Sales Ana
 - Counts customers with more than one delivered order.
 - Calculates the repeat-customer percentage.
 - Uses a CTE and conditional aggregation.
+
+
+### 4. Top Seller Analysis
+
+**File:** `advanced_top_seller_analysis.sql`
+
+- Calculates revenue and unique delivered orders for each seller.
+- Uses aggregation and `DENSE_RANK()` to rank sellers.
+- Identifies the top 10 sellers by product revenue.
