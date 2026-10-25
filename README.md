@@ -327,9 +327,8 @@ ecommerce-sales-analysis/
 ├── advanced_top_seller_analysis.sql
 ├── sql_analysis/
 │   └── README.md
-├── Documentation/
-│   ├── Ecommerce_Sales_Project_Report.docx
-│   └── Ecommerce_Sales_Project_Report.pdf
+├── Ecommerce_Sales_project_Report.docx
+├── Ecommerce_Sales_project_Report.pdf
 ├── 01_Sales_Overview.png
 ├── 02_Product_Customer_Analysis.png
 ├── 03_Delivery_Business_Insights.png
