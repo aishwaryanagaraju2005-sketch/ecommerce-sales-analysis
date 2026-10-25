@@ -291,3 +291,25 @@ This repository contains the SQL queries, project report, and Power BI dashboard
 ### 6. Product Performance
 - **Finding:** Sales performance varied across product categories.
 - **Recommendation:** Compare category revenue and order volume to identify products that may deserve additional business attention.
+
+
+## Data Cleaning & Validation
+
+Data quality checks were performed to understand the dataset and improve the reliability of the analysis.
+
+### Validation Checks
+- Checked the row counts of the imported database tables.
+- Reviewed order statuses and delivery date availability.
+- Checked review records and identified duplicate review IDs.
+- Compared key sales and order metrics with SQL query results.
+- Used SQL and Power BI to analyze and visualize the data.
+
+### Data Quality Notes
+- The dataset contains 99,441 customer records and 99,441 order records.
+- The reviews table contains 98,410 unique review IDs.
+- Eight delivered orders were missing one or more required delivery dates for delivery-performance calculations.
+- Delivery-performance percentages were calculated using orders with the required delivery dates available.
+
+### Tools Used
+- MySQL: Data validation, SQL queries, and analysis.
+- Power BI: Data visualization, KPI cards, and interactive dashboards.
