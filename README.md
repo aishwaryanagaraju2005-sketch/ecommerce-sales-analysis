@@ -1,8 +1,8 @@
-\# E-Commerce Sales Analysis using MySQL and Power BI
+### E-Commerce Sales Analysis using MySQL and Power BI
 
 
 
-\## Project Overview
+### Project Overview
 
 
 
@@ -12,9 +12,24 @@ This project analyses e-commerce sales data to understand sales performance, cus
 
 The project uses MySQL for data storage and SQL analysis and Microsoft Power BI to build interactive dashboards that present business insights.
 
+## Executive Summary
+
+### Business Overview
+This project analyzes Brazilian e-commerce data using MySQL and Microsoft Power BI to understand sales performance, customer satisfaction, product categories, payment methods, and delivery efficiency.
+
+### Key Performance Indicators
+- **Total Sales: R$13.59 million**
+- **Total Orders: 99,441**
+- **Delivered Orders:96,478**
+- **Average Review Score: 4.09 out of 5**
+- **Average Order Value:R$137.75**
+
+### Business Objective
+Transform e-commerce data into actionable insights to help businesses monitor sales, understand customer experiences, and improve operational decisions.
 
 
-\## Project Objectives
+
+### Project Objectives
 
 
 
@@ -36,7 +51,7 @@ The project uses MySQL for data storage and SQL analysis and Microsoft Power BI 
 
 
 
-\## Tools and Technologies
+### Tools and Technologies
 
 
 
@@ -54,7 +69,7 @@ The project uses MySQL for data storage and SQL analysis and Microsoft Power BI 
 
 
 
-\## Dataset
+### Dataset
 
 
 
@@ -82,7 +97,7 @@ The analysis uses seven tables:
 
 
 
-\## Dashboards
+### Dashboards
 
 
 
@@ -144,7 +159,7 @@ This dashboard presents:
 
 
 
-\## Key Results
+### Key Results
 
 
 
@@ -166,7 +181,7 @@ This dashboard presents:
 
 
 
-\## SQL Analysis
+### SQL Analysis
 
 
 
@@ -190,7 +205,7 @@ SQL was used to analyse:
 
 
 
-\## Business Value
+### Business Value
 
 
 
@@ -202,7 +217,7 @@ These insights can support decisions about product performance, customer experie
 
 
 
-\## Skills Demonstrated
+### Skills Demonstrated
 
 
 
@@ -222,7 +237,7 @@ These insights can support decisions about product performance, customer experie
 
 
 
-\## Conclusion
+### Conclusion
 
 
 
