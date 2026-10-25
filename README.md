@@ -264,3 +264,30 @@ Download or open the interactive Power BI report using the link below:
 ## Project Repository
 
 This repository contains the SQL queries, project report, and Power BI dashboard screenshots for the E-Commerce Sales Analysis project.
+
+
+## Business Insights & Recommendations
+
+### 1. Sales Performance
+- **Finding:** Total sales reached R$13.59 million across 99,441 orders.
+- **Recommendation:** Track monthly sales and order trends to identify periods of strong and weak performance.
+
+### 2. Customer Satisfaction
+- **Finding:** The average customer review score was 4.09 out of 5.
+- **Recommendation:** Monitor low-rated reviews to identify recurring customer complaints and service improvements.
+
+### 3. Delivery Performance
+- **Finding:** 7,826 delivered orders were classified as late among orders with the required delivery dates.
+- **Recommendation:** Investigate delivery delays by customer state and seller to identify where improvements may have the greatest impact.
+
+### 4. Order Fulfilment
+- **Finding:** 96,478 orders were delivered, while 625 were cancelled.
+- **Recommendation:** Monitor cancellation patterns to identify potential fulfilment and customer-service issues.
+
+### 5. Payment Methods
+- **Finding:** Credit cards and boleto were important payment methods in the sales data.
+- **Recommendation:** Compare payment methods by order count and sales value to understand customer preferences.
+
+### 6. Product Performance
+- **Finding:** Sales performance varied across product categories.
+- **Recommendation:** Compare category revenue and order volume to identify products that may deserve additional business attention.
