@@ -313,3 +313,24 @@ Data quality checks were performed to understand the dataset and improve the rel
 ### Tools Used
 - MySQL: Data validation, SQL queries, and analysis.
 - Power BI: Data visualization, KPI cards, and interactive dashboards.
+
+
+## Project Structure
+
+```text
+ecommerce-sales-analysis/
+├── ALL ANALYSIS.sql
+├── ecommerce_sales_setup.sql
+├── advanced_monthly_sales_growth.sql
+├── advanced_top_product_categories.sql
+├── advanced_repeat_customer_analysis.sql
+├── advanced_top_seller_analysis.sql
+├── sql_analysis/
+│   └── README.md
+├── Documentation/
+│   ├── Ecommerce_Sales_Project_Report.docx
+│   └── Ecommerce_Sales_Project_Report.pdf
+├── 01_Sales_Overview.png
+├── 02_Product_Customer_Analysis.png
+├── 03_Delivery_Business_Insights.png
+└── README.md
