@@ -333,6 +333,8 @@ ecommerce-sales-analysis/
 ├── 02_Product_Customer_Analysis.png
 ├── 03_Delivery_Business_Insights.png
 └── README.md
+```
+
 
 
 
@@ -344,3 +346,4 @@ ecommerce-sales-analysis/
 - **Window Functions:** Used `LAG()` for month-over-month sales analysis and `DENSE_RANK()` to rank product categories and sellers.
 - **Conditional Aggregation:** Calculated repeat-customer metrics using `CASE` expressions.
 - **Data Validation:** Checked table row counts, review IDs, order statuses, and delivery-date availability.
+
